@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mishrabhavesh
-- 👀 I’m interested in web develoipment
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning react & rails
 - 📫 How to reach me email- mishra.bhavesh@outlook.com
 
