@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mishrabhavesh
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react & rails
+- 🌱 React and rails developer
+- 💻 Working at Kreeti Technologies Pvt Ltd
 - 📫 How to reach me email- mishra.bhavesh@outlook.com
 
 <!---
